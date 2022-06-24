@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HESyang
+- 👋 Hi, This is Yu Yang.
 - 👀 I’m interested in natural language processing, machine learning, and deep learning. 
 - 🌱 I’m currently learning application of Transformer.
 - 💞️ I’m looking to collaborate on creating chatbot or knowledge database in engineering design and Q/A... 
